@@ -1,10 +1,14 @@
 # NumLimitEditText
 
+演示：
 
-https://github.com/gavinYip/NumLimitEditText/master/Screenshots/1.png
+![image](https://github.com/gavinYip/NumLimitEditText/raw/master/Screenshots/1.png)
 
 
-https://github.com/gavinYip/NumLimitEditText/master/Screenshots/2.png
+使用：
+
+![image](https://github.com/gavinYip/NumLimitEditText/raw/master/Screenshots/2.png)
+
 
 Step 1：Add it in your root build.gradle at the end of repositories:
 	
