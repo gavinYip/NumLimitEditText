@@ -1,0 +1,84 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!--字体-->
+    <dimen name="value_11sp">11sp</dimen>
+    <dimen name="value_12sp">12sp</dimen>
+    <dimen name="value_13sp">13sp</dimen>
+    <dimen name="value_14sp">14sp</dimen>
+    <dimen name="value_15sp">15sp</dimen>
+    <dimen name="value_16sp">16sp</dimen>
+    <dimen name="value_17sp">17sp</dimen>
+    <dimen name="value_18sp">18sp</dimen>
+    <dimen name="value_19sp">19sp</dimen>
+    <dimen name="value_20sp">20sp</dimen>
+    <dimen name="value_21sp">21sp</dimen>
+    <dimen name="value_22sp">22sp</dimen>
+    <dimen name="value_23sp">23sp</dimen>
+    <dimen name="value_24sp">24sp</dimen>
+    <dimen name="value_28sp">28sp</dimen>
+    <dimen name="value_32sp">32sp</dimen>
+
+    <dimen name="value_2dp">2dp</dimen>
+    <dimen name="value_3dp">3dp</dimen>
+    <dimen name="value_4dp">4dp</dimen>
+    <dimen name="value_5dp">5dp</dimen>
+    <dimen name="value_6dp">6dp</dimen>
+    <dimen name="value_8dp">8dp</dimen>
+    <dimen name="value_10dp">10dp</dimen>
+    <dimen name="value_12dp">12dp</dimen>
+    <dimen name="value_13dp">13dp</dimen>
+    <dimen name="value_15dp">15dp</dimen>
+    <dimen name="value_20dp">20dp</dimen>
+    <dimen name="value_23dp">23dp</dimen>
+    <dimen name="value_24dp">24dp</dimen>
+    <dimen name="value_25dp">25dp</dimen>
+    <dimen name="value_29dp">29dp</dimen>
+    <dimen name="value_30dp">30dp</dimen>
+    <dimen name="value_35dp">35dp</dimen>
+    <dimen name="value_36dp">36dp</dimen>
+    <dimen name="value_38dp">38dp</dimen>
+    <dimen name="value_40dp">40dp</dimen>
+    <dimen name="value_44dp">44dp</dimen>
+    <dimen name="value_45dp">45dp</dimen>
+    <dimen name="value_46dp">46dp</dimen>
+    <dimen name="value_50dp">50dp</dimen>
+    <dimen name="value_52dp">52dp</dimen>
+    <dimen name="value_53dp">53dp</dimen>
+    <dimen name="value_54dp">54dp</dimen>
+    <dimen name="value_57dp">57dp</dimen>
+    <dimen name="value_60dp">60dp</dimen>
+    <dimen name="value_64dp">64dp</dimen>
+    <dimen name="value_67dp">67dp</dimen>
+    <dimen name="value_68dp">68dp</dimen>
+    <dimen name="value_70dp">70dp</dimen>
+    <dimen name="value_72dp">72dp</dimen>
+    <dimen name="value_80dp">80dp</dimen>
+    <dimen name="value_84dp">84dp</dimen>
+    <dimen name="value_88dp">88dp</dimen>
+    <dimen name="value_90dp">90dp</dimen>
+    <dimen name="value_93dp">93dp</dimen>
+    <dimen name="value_100dp">100dp</dimen>
+    <dimen name="value_110dp">110dp</dimen>
+    <dimen name="value_116dp">116dp</dimen>
+    <dimen name="value_117dp">117dp</dimen>
+    <dimen name="value_120dp">120dp</dimen>
+    <dimen name="value_130dp">130dp</dimen>
+    <dimen name="value_140dp">140dp</dimen>
+    <dimen name="value_150dp">150dp</dimen>
+    <dimen name="value_160dp">160dp</dimen>
+    <dimen name="value_165dp">165dp</dimen>
+    <dimen name="value_180dp">180dp</dimen>
+    <dimen name="value_190dp">190dp</dimen>
+    <dimen name="value_200dp">200dp</dimen>
+    <dimen name="value_210dp">210dp</dimen>
+    <dimen name="value_215dp">215dp</dimen>
+    <dimen name="value_220dp">220dp</dimen>
+    <dimen name="value_230dp">230dp</dimen>
+    <dimen name="value_240dp">240dp</dimen>
+    <dimen name="value_270dp">270dp</dimen>
+    <dimen name="value_274dp">274dp</dimen>
+    <dimen name="value_414dp">414dp</dimen>
+    <dimen name="value_520dp">520dp</dimen>
+
+</resources>
