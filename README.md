@@ -1,10 +1,10 @@
 # NumLimitEditText
 
-https://github.com/gavinYip/NumLimitEditText/blob/master/Screenshots/1.png
+
+https://github.com/gavinYip/NumLimitEditText/master/Screenshots/1.png
 
 
-https://github.com/gavinYip/NumLimitEditText/blob/master/Screenshots/2.png
-
+https://github.com/gavinYip/NumLimitEditText/master/Screenshots/2.png
 
 Step 1：Add it in your root build.gradle at the end of repositories:
 	
